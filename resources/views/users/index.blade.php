@@ -1,4 +1,4 @@
-@extends('adminlte::page')
+@extends('layouts.app')
 
 @section('body_class', 'sidebar-mini') {{-- removes hold-transition animation --}}
 @section('title', 'Users')
